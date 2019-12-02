@@ -1,0 +1,52 @@
+Tell us what your idea is. 
+
+Create a series of videos of education programming in 360^ with subtitles
+
+Tell us how you plan on bringing it to life. 
+
+Hard work and good thinking it' my role for executing any quest. Step by step. Part by part.
+
+Describe where your project is, how you could use Google’s help in the endeavor,
+ and how you plan on using On-Device ML technology to bring the concept to life.
+
+I do not know yet how but it's a lot of possibilities for use video 360 degrees, I want to know first what I can do or create with Google cloud.
+
+ The best submissions have a great idea combined with a concrete path of where
+ you plan on going, which should include: 
+
+I want to be a Software Engineer and my role is taking the experience with creating an application from a beginner to end
+
+(1) any potential sample code you’ve already written:
+
+https://github.com/tomaszmurzynski/Eco/tree/CSharp/CSharp, 
+
+(2) a list of the ways you could use Google’s help,
+
+It's my first project with a development Google-like cloud, I just want to know how to use any cloud functionality. Ok, I know something about it from my university, but this just all for beginners, how to create an app engine in Java I learned yesterday. Hey, it's similar to my experience from before. Quick everything is done it's my first feeling.
+
+(3) as well as the timeline on how you plan on bringing it to life by May 1, 2020. 
+
+Start date 02/12/2019
+Environment and learning about tools 20/12/2019
+Installation and preparing cloud for application 31/12/2019
+First Test Driven Development in cloud 15/01/2020
+Base functionality for display on Android 30/01/2020
+Create databases for application base 15/02/2020
+Tests 02/03/2020
+Fixes and new functionality 01/04/2020
+Tests 15/04/2020
+Last fixes and develop on google play 20/04/2020
+My birthday party 21/04/2020
+Deadline 01/05/2020
+
+
+Tell us about you. 
+
+It's a long story about me. Just from my youngest, I being programming.
+I have 8 or 9 years old when I write my first code in basic. And I cried 
+with few newspapers about Commodore 64. My first program is like a clock 
+just displays in one of the corners of the screen. Now I have 35 years old 
+and I just love programming, new technology and any big ideas for a better 
+future. 
+
+
