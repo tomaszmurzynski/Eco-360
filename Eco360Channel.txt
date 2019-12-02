@@ -28,9 +28,10 @@ you plan on going, which should include:
 (2) a list of the ways you could use Google’s help,
 
 	It's my first project with a development Google-like cloud, I just want to know 
-	how to use any cloud functionality. Ok, I know something about it from my university, but this just all for beginners, 
-	how to create an app engine in Java I learned yesterday. 
-	Hey, it's similar to my experience from before. Quick everything is done it's my first feeling.
+	how to use any cloud functionality. Ok, I know something about it from my university, but this just knowledge all for beginners, 
+	how to create with Google an app engine in Java, I learned yesterday. 
+	Hey, it's similar to my experience from before. Quick everything is done, 
+	it's my first feeling and it's a lot of documentation is available on Google.
 
 (3) as well as the timeline on how you plan on bringing it to life by May 1, 2020. 
 
