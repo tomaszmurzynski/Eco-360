@@ -1,13 +1,15 @@
 Tell us what your idea is. 
 
-	Create a series of videos of education programming in 360 degrees with subtitles
+	Creating a series of Virtual Reality experiences for programmers education, 
+	with use video 360 degrees and subtitles for better understanding code by 
+	the user of the application. Preparing scenes and sets of tools in VR for user tasks.
 
 Tell us how you plan on bringing it to life. 
 
 	Hard work and good thinking it' my role for executing any quest. Step by step. Part by part.
 
 Describe where your project is, how you could use Google’s help in the endeavor,
- and how you plan on using On-Device ML technology to bring the concept to life.
+and how you plan on using On-Device ML technology to bring the concept to life.
 
 	I do not know yet how but it's a lot of possibilities for use video 360 degrees, I want to know first what I can do or create with Google cloud.
 
@@ -23,7 +25,9 @@ you plan on going, which should include:
 (2) a list of the ways you could use Google’s help,
 
 	It's my first project with a development Google-like cloud, I just want to know 
-	how to use any cloud functionality. Ok, I know something about it from my university, but this just all for beginners, how to create an app engine in Java I learned yesterday. Hey, it's similar to my experience from before. Quick everything is done it's my first feeling.
+	how to use any cloud functionality. Ok, I know something about it from my university, but this just all for beginners, 
+	how to create an app engine in Java I learned yesterday. 
+	Hey, it's similar to my experience from before. Quick everything is done it's my first feeling.
 
 (3) as well as the timeline on how you plan on bringing it to life by May 1, 2020. 
 
