@@ -2,7 +2,10 @@ Tell us what your idea is.
 
 	Creating a series of Virtual Reality experiences for programmers education, 
 	with use video 360 degrees and subtitles for better understanding code by 
-	the user of the application. Preparing scenes and sets of tools in VR for user tasks.
+	the user of the application. Preparing scenes and sets of tools in VR needs for 
+	user tasks. Creating a user base with experience line and tips directions for 
+	evolution and development. I wish to use 5G technology for minimalize time for 
+	the necessary server's answer and enjoyable using application without lags. 
 
 Tell us how you plan on bringing it to life. 
 
