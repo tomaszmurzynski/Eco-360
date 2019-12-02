@@ -14,7 +14,9 @@ Tell us how you plan on bringing it to life.
 Describe where your project is, how you could use Google’s help in the endeavor,
 and how you plan on using On-Device ML technology to bring the concept to life.
 
-	I do not know yet how but it's a lot of possibilities for use video 360 degrees, I want to know first what I can do or create with Google cloud.
+	I do not know yet how but it's a lot of possibilities for use video 360 degrees, 
+	I want to know first what I can do or create with Google cloud and use this knowledge 
+	to decide on how to use this on Device ML technology.
 
 The best submissions have a great idea combined with a concrete path of where
 you plan on going, which should include: 
