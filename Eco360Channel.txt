@@ -56,7 +56,7 @@ Tell us about you.
 	It's a long story about me. Just from my youngest, I being programming.
 	When I had 8 or 9 years old when I write my first code in basic. And I cried 
 	with few newspapers about Commodore 64. My first program is like a clock 
-	just displays in one of the corners of the screen. Now I have 35 years old 
+	just displays in one of the corners of the screen. Now I'm 35 years old 
 	and I just love programming, new technology and any big ideas for a better 
 	future. 
 
